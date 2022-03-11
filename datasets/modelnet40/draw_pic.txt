@@ -1,0 +1,6 @@
+airplane
+chair
+cup
+bottle
+guitar
+lamp
